@@ -20,3 +20,9 @@ C:/Users/doget/Desktop/code/Cmake-Main/build/external/glfw/src/CMakeFiles/list_i
 C:/Users/doget/Desktop/code/Cmake-Main/build/external/glfw/src/CMakeFiles/install.dir
 C:/Users/doget/Desktop/code/Cmake-Main/build/external/glfw/src/CMakeFiles/install/local.dir
 C:/Users/doget/Desktop/code/Cmake-Main/build/external/glfw/src/CMakeFiles/install/strip.dir
+C:/Users/doget/Desktop/code/Cmake-Main/build/external/glad/cmake/CMakeFiles/edit_cache.dir
+C:/Users/doget/Desktop/code/Cmake-Main/build/external/glad/cmake/CMakeFiles/rebuild_cache.dir
+C:/Users/doget/Desktop/code/Cmake-Main/build/external/glad/cmake/CMakeFiles/list_install_components.dir
+C:/Users/doget/Desktop/code/Cmake-Main/build/external/glad/cmake/CMakeFiles/install.dir
+C:/Users/doget/Desktop/code/Cmake-Main/build/external/glad/cmake/CMakeFiles/install/local.dir
+C:/Users/doget/Desktop/code/Cmake-Main/build/external/glad/cmake/CMakeFiles/install/strip.dir

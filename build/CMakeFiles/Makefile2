@@ -64,16 +64,34 @@ CMAKE_BINARY_DIR = C:\Users\doget\Desktop\code\Cmake-Main\build
 # The main recursive "all" target.
 all: CMakeFiles/glfwproject.dir/all
 all: external/glfw/all
+all: external/glad/cmake/all
 .PHONY : all
 
 # The main recursive "preinstall" target.
 preinstall: external/glfw/preinstall
+preinstall: external/glad/cmake/preinstall
 .PHONY : preinstall
 
 # The main recursive "clean" target.
 clean: CMakeFiles/glfwproject.dir/clean
 clean: external/glfw/clean
+clean: external/glad/cmake/clean
 .PHONY : clean
+
+#=============================================================================
+# Directory level rules for directory external/glad/cmake
+
+# Recursive "all" directory target.
+external/glad/cmake/all:
+.PHONY : external/glad/cmake/all
+
+# Recursive "preinstall" directory target.
+external/glad/cmake/preinstall:
+.PHONY : external/glad/cmake/preinstall
+
+# Recursive "clean" directory target.
+external/glad/cmake/clean:
+.PHONY : external/glad/cmake/clean
 
 #=============================================================================
 # Directory level rules for directory external/glfw

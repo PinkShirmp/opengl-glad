@@ -12,6 +12,7 @@ set(CMAKE_MAKEFILE_DEPENDS
   "CMakeFiles/3.26.4/CMakeCXXCompiler.cmake"
   "CMakeFiles/3.26.4/CMakeRCCompiler.cmake"
   "CMakeFiles/3.26.4/CMakeSystem.cmake"
+  "C:/Users/doget/Desktop/code/Cmake-Main/external/glad/cmake/CMakeLists.txt"
   "C:/Users/doget/Desktop/code/Cmake-Main/external/glfw/CMake/cmake_uninstall.cmake.in"
   "C:/Users/doget/Desktop/code/Cmake-Main/external/glfw/CMake/glfw3.pc.in"
   "C:/Users/doget/Desktop/code/Cmake-Main/external/glfw/CMake/glfw3Config.cmake.in"
@@ -38,6 +39,7 @@ set(CMAKE_MAKEFILE_DEPENDS
   "C:/Users/doget/scoop/apps/cmake/3.26.4/share/cmake-3.26/Modules/Compiler/GNU.cmake"
   "C:/Users/doget/scoop/apps/cmake/3.26.4/share/cmake-3.26/Modules/FindPackageHandleStandardArgs.cmake"
   "C:/Users/doget/scoop/apps/cmake/3.26.4/share/cmake-3.26/Modules/FindPackageMessage.cmake"
+  "C:/Users/doget/scoop/apps/cmake/3.26.4/share/cmake-3.26/Modules/FindPythonInterp.cmake"
   "C:/Users/doget/scoop/apps/cmake/3.26.4/share/cmake-3.26/Modules/FindThreads.cmake"
   "C:/Users/doget/scoop/apps/cmake/3.26.4/share/cmake-3.26/Modules/GNUInstallDirs.cmake"
   "C:/Users/doget/scoop/apps/cmake/3.26.4/share/cmake-3.26/Modules/Internal/CheckSourceCompiles.cmake"
@@ -67,6 +69,7 @@ set(CMAKE_MAKEFILE_PRODUCTS
   "external/glfw/CMakeFiles/CMakeDirectoryInformation.cmake"
   "external/glfw/src/glfw3.pc"
   "external/glfw/src/CMakeFiles/CMakeDirectoryInformation.cmake"
+  "external/glad/cmake/CMakeFiles/CMakeDirectoryInformation.cmake"
   )
 
 # Dependency information for all targets:
